@@ -10,5 +10,5 @@ Check the sites from entrepreneurs from specific countries
 
 Alphabetical Order:
 
-- For Turkish People - http://sahin.github.io/InSiliconValley/turkish
+- For Turkish People - https://github.com/sahin/TurksInSiliconValley
 
